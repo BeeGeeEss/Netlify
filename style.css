@@ -138,8 +138,8 @@ nav {
   .band-onstage {
    max-width: 100%;
    max-height: 50%;
-   max-width: 60px;
-   max-height: 30px;
+   max-width: 40px;
+   max-height: 20px;
   }
 }
 
@@ -147,7 +147,7 @@ nav {
   .band-onstage {
    max-width: 100%;
    max-height: 50%;
-   max-width: 150px;
+   max-width: 120px;
    max-height: 80px;
   }
 }
