@@ -44,6 +44,17 @@ h3 {
   align-items: center;
 }
 
+h6 {
+  font-family: "Phudu", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center; 
+}
+
 /*Text within sections*/
 p {
   font-family: "Phudu", sans-serif;
