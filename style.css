@@ -36,7 +36,6 @@ h2 {
 /*Text within sections*/
 p {
   font-family: "Phudu", sans-serif;
-  font-optical-sizing: auto;
   font-weight: 400;
   font-style: normal;
   color: white; 
@@ -106,7 +105,7 @@ nav {
   flex-direction: row;
   justify-content: center;
   align-items: center;
-  border: #0000FF, 3px, solid;
+  border: 3px solid #0000FF;
 }
 
 /*Section to the right*/
@@ -230,7 +229,7 @@ footer {
   font-style: normal;
   text-align: center;
   color: white;
-  position: block;
+  position: relative;
   left: 0;
   bottom: 0;
   width:100%;
